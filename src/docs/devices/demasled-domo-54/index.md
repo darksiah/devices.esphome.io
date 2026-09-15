@@ -124,7 +124,7 @@ For best accuracy, each device should be calibrated against a known reference me
 
 The power monitoring circuitry is based on the BL0937 and is supported by ESPHome through the `hlw8012` platform using:
 
-```yaml
+```yaml inline
 model: BL0937
 ```
 
